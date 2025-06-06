@@ -54,8 +54,8 @@ The dataset represents anonymized customer information from a fictional telecom 
 ## 📂 Usage
 
 This dataset is read into both:
-- [Power BI Dashboard] (../dashboards/powerbi/telecom-churn.pbix)
-- [Tableau Dashboard] (../dashboards/tableau/telecom-churn.twbx)
+- [Power BI Dashboard](../dashboards/powerbi/telecom-churn.pbix)
+- [Tableau Dashboard](../dashboards/tableau/telecom-churn.twbx)
 
 For consistent reproducibility, the CSV is shared as a single source of truth.
 
