@@ -68,7 +68,7 @@ This 3-page report explores churn patterns across customer profiles, service usa
 
 ## 📄 PDF Version
 
-You can also find the exported Tableau report [here](../../reports/telecom-churn-tableau-dashboard.pdf)
+You can also find the exported Tableau report [here](../../reports/telecom-churn-combined-dashboards.pdf)
 
 ---
 

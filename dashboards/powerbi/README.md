@@ -67,7 +67,7 @@ This 3-page report highlights key churn patterns by customer profiles, service t
 
 ## 📄 PDF Version (optional)
 
-You can also find the exported PDF report [here](../../reports/telecom-churn-combined-dashboard.pdf)
+You can also find the exported PDF report [here](../../reports/telecom-churn-combined-dashboards.pdf)
 
 ---
 
