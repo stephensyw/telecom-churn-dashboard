@@ -59,9 +59,9 @@ This 3-page report highlights key churn patterns by customer profiles, service t
 
 ## 🔗 Screenshots
 
-- [Page 1 – Overview](./page1%20-%20overview.png)
-- [Page 2 – Customer Profile and Services](./page2%20-%20customer%20profile%20and%20service.png)
-- [Page 3 – Churn Factors and Retention](./page3%20-%20churn%20factors%20and%20retention.png)
+- [Page 1 – Overview](./screenshots/page1%20-%20overview.png)
+- [Page 2 – Customer Profile and Services](./screenshots/page2%20-%20customer%20profile%20and%20service.png)
+- [Page 3 – Churn Factors and Retention](./screenshots/page3%20-%20churn%20factors%20and%20retention.png)
 
 ---
 
