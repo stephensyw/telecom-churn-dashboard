@@ -4,8 +4,8 @@ This repository contains multiple BI dashboards analyzing customer churn in the 
 
 ## 📂 Folders
 
-- [`/powerbi`](./dashboards/powerbi/) – Power BI version
-- [`/tableau`](./dashboards/tableau/) – Tableau version (coming soon)
+- [`/dashboards/powerbi`](./dashboards/powerbi/) – Power BI version
+- [`/dashboards/tableau`](./dashboards/tableau/) – Tableau version (coming soon)
 
 ## 📈 Objective
 
